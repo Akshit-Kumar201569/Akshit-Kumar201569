@@ -1,8 +1,8 @@
 Hi 👋 I'm Akshit  
-Web Developer | Aspring Android Developer (Kotlin) | Learning Game Development 🎮  
+Web Developer | Aspring Android Developer (Kotlin) and Game Development 🎮  
 
-🔹 Tech: Kotlin, Android, Jetpack Compose ,Frontend. 
-🔹 Current Focus: Clean Architecture & UI Animations |  Web Applications | Android Apps
+🔹 Tech: HTML,CSS,JS 
+🔹 Current Focus: Clean Architecture & UI Animations |  Web Applications 
 
 📌 Featured Projects:
 - WebProject-Login
