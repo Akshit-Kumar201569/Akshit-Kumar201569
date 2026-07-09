@@ -1,5 +1,5 @@
 Hi 👋 I'm Akshit  
-Web Developer | Aspring Android Developer (Kotlin) and Game Development 🎮  
+Aspiring Full Stack Developer | Frotend Developer  
 
 🔹 Tech: HTML,CSS,JS 
 🔹 Current Focus: Clean Architecture & UI Animations |  Web Applications 
